@@ -9,7 +9,7 @@ This course is a continuation of [Network Science](https://netspractice.github.i
 
 # Team
 
-{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="https://www.hse.ru/en/staff/iamakarov" url2="assets/imgs/vitalii.png" description2="Vitalii Pozdnyakov" link2="https://www.hse.ru/en/staff/vvpozdnyakov" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="https://www.hse.ru/en/staff/mkiseljov" %}
+{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="https://www.hse.ru/en/staff/iamakarov" url2="assets/imgs/vitalii.jpeg" description2="Vitalii Pozdnyakov" link2="https://www.hse.ru/en/staff/vvpozdnyakov" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="https://www.hse.ru/en/staff/mkiseljov" %}
 
 
 # Schedule
