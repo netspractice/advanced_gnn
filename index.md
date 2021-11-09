@@ -90,3 +90,18 @@ Review of general optimization frameworks: integer linear programming, satisfiab
 Lecture slides TBA Seminar notebook TBA
 
 Description of OGB. OGB challenges.
+
+
+# Programming environment
+
+1. Python, iPython Notebooks (e.g. Anaconda distribution)
+2. Python libraries: NetworkX, pytorch, pyG and dgl
+
+# Resources
+
+* [CS224W: Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2020/). Jure Leskovec. Stanford, 2020-2021.
+* [SNAP Project](http://snap.stanford.edu/)
+* [PyG](https://pytorch-geometric.readthedocs.io/en/latest/) & [PyG Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/)
+* [DGL](https://dgl.ai)
+* [Network Science](http://networksciencebook.com), Albert-Laszlo Barabasi, Cambridge University Press, 2016. 
+* [Network Science](http://leonidzhukov.net/hse/2021/networks/) course by Leonid E. Zhukov
