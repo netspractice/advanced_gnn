@@ -34,7 +34,7 @@ Simple graph convolution. Linearization and logistic regression for interpretati
 
 ## Lecture 4. Compression and Knowledge distillation for GNNs
 
-[Lecture slides](assets/lectures/MADE_GNN_Lecture_4__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/tree/main/lab_knowledge_distillation)
+[Lecture slides](assets/lectures/MADE_GNN_Lecture_4__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/tree/main/lab_knowledge_distillation/lab.ipynb)
 
 Quantization techniques for GNNs: degree-based, noise-based, graph-level. Knowledge distillation methods. Self-distillation. Binary GNNs. Federated learning and hardware acceleration.
 
