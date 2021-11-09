@@ -5,7 +5,7 @@ title: Advanced GNN
 
 # About
 
-This course is a continuation of [Network Science](https://netspractice.github.io/ml-on-graphs/) course at BigData Academy MADE by [VK](https://vk.company/). It covers the most modern problems in the field of Graph Neural Networks and their applications.
+This course is a continuation of [Network Science](https://netspractice.github.io/ml-on-graphs/) course at BigData Academy MADE by [VK](https://vk.company/). It covers the recent problems in the field of Graph Neural Networks and their applications.
 
 # Team
 
@@ -16,25 +16,25 @@ This course is a continuation of [Network Science](https://netspractice.github.i
 
 ## Lecture 1. Self-supervised learning and attention-based models on graphs
 
-[Lecture slides](assets/lectures/MADE_GNN_Lecture_1__2021_.pdf) [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_ssl_on_graphs/lab.ipynb) [Homework](https://github.com/netspractice/advanced_gnn/blob/main/assignment_contrastive_learning/assignment.ipynb)
+[Lecture slides](assets/lectures/MADE_GNN_Lecture_1__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_ssl_on_graphs/lab.ipynb) / [Homework](https://github.com/netspractice/advanced_gnn/blob/main/assignment_contrastive_learning/assignment.ipynb)
 
 Unified framework and mathematical formulation of graph self-supervised learning. Taxonomy of graph self-supervised learning: generation-based methods, auxiliary methods, contrast-based methods. Taxonomy of self-supervised training schemes: pre-training and fine-tuning, joint learning, unsupervised representation learning. Modelling graph-structured data using Transformers.
 
 ## Lecture 2. Subgraph-level embeddings and Deep Sets
 
-[Lecture slides](assets/lectures/MADE_GNN_Lecture_2__2021_.pdf) [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_subgraph_emb/lab.ipynb)
+[Lecture slides](assets/lectures/MADE_GNN_Lecture_2__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_subgraph_emb/lab.ipynb)
 
 Set pooling approaches. Graph coarsening approaches. Graph neural networks for graph classification. Kernel machines and spectral methods. DeepSets, invariant and equivariant models.
 
 ## Lecture 3. Graph neural networks at scale, efficient models and scaling techniques
 
-[Lecture slides](assets/lectures/MADE_GNN_Lecture_3__2021_.pdf) [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_scalable_gnn/lab.ipynb)
+[Lecture slides](assets/lectures/MADE_GNN_Lecture_3__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/blob/main/lab_scalable_gnn/lab.ipynb)
 
 Simple graph convolution. Linearization and logistic regression for interpretation and learning on large datasets. The "neighbor explosion" problem. Graph sampling based on inductive learning methods. Normalization and sampling algorithms for variance reduction.
 
 ## Lecture 4. Compression and Knowledge distillation for GNNs
 
-[Lecture slides](assets/lectures/MADE_GNN_Lecture_4__2021_.pdf) [Seminar notebook](https://github.com/netspractice/advanced_gnn/tree/main/lab_knowledge_distillation)
+[Lecture slides](assets/lectures/MADE_GNN_Lecture_4__2021_.pdf) / [Seminar notebook](https://github.com/netspractice/advanced_gnn/tree/main/lab_knowledge_distillation)
 
 Quantization techniques for GNNs: degree-based, noise-based, graph-level. Knowledge distillation methods. Self-distillation. Binary GNNs. Federated learning and hardware acceleration.
 
