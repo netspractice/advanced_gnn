@@ -5,11 +5,11 @@ title: Advanced GNN
 
 # About
 
-This course is a continuation of [Network Science](https://netspractice.github.io/ml-on-graphs/) course at BigData Academy MADE by [VK](https://vk.company/). It covers the recent problems in the field of Graph Neural Networks and their applications.
+This course is a continuation of [Network Science](https://netspractice.github.io/ml-on-graphs/) course at [BigData Academy MADE](https://data.mail.ru/) by [VK](https://vk.company/). It covers the recent problems in the field of Graph Neural Networks and their applications.
 
 # Team
 
-{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="https://www.hse.ru/en/staff/iamakarov" url2="assets/imgs/vitalii.jpeg" description2="Vitalii Pozdnyakov" link2="https://www.hse.ru/en/staff/vvpozdnyakov" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="https://www.hse.ru/en/staff/mkiseljov" %}
+{% include image-row.html url1="assets/imgs/ilya.jpg" description1="Ilya Makarov" link1="#" url2="assets/imgs/vitalii.jpeg" description2="Vitalii Pozdnyakov" link2="#" url3="assets/imgs/mitya.jpg" description3="Dmitrii Kiselev" link3="#" %}
 
 
 # Schedule
