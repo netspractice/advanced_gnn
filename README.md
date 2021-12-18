@@ -1,6 +1,6 @@
 # Advanced Graph Neural Networks course
 
-This repository contains labs and practical assignments on Advanced Graph Neural Network course.
+This repository contains labs and practical assignments on Advanced Graph Neural Networks course.
 
 Labs:
 1. [Self-supervised learning on graphs](lab_ssl_on_graphs/lab.ipynb)
