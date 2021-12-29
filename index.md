@@ -91,10 +91,10 @@ Material design. Biology and medicine: molecular design, protein-protein network
 
 # Resources
 
-* [CS224W: Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2020/). Jure Leskovec. Stanford, 2020-2021.
+* [CS224W: Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2020/) course by Jure Leskovec. Stanford, 2020-2021.
 * [SNAP Project](http://snap.stanford.edu/)
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/) & [PyG Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/)
 * [DGL](https://dgl.ai)
-* [Network Science](http://networksciencebook.com), Albert-Laszlo Barabasi, Cambridge University Press, 2016. 
-* [Network Science](http://leonidzhukov.net/hse/2021/networks/) course by Leonid E. Zhukov
+* [Network Science](http://networksciencebook.com) book by Albert-Laszlo Barabasi, Cambridge University Press, 2016. 
+* [Network Science](http://leonidzhukov.net/hse/2021/networks/) course by Leonid E. Zhukov, Higher School of Economics, 2021
 * [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) book by William L. Hamilton, McGill University, 2020
