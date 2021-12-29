@@ -97,3 +97,4 @@ Material design. Biology and medicine: molecular design, protein-protein network
 * [DGL](https://dgl.ai)
 * [Network Science](http://networksciencebook.com), Albert-Laszlo Barabasi, Cambridge University Press, 2016. 
 * [Network Science](http://leonidzhukov.net/hse/2021/networks/) course by Leonid E. Zhukov
+* [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) book by William L. Hamilton, McGill University, 2020
