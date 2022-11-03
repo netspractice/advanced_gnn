@@ -7,6 +7,7 @@ Labs:
 2. [Subgraph embeddings](lab02_subgraph_emb/lab.ipynb)
 3. [Scalable GNN](lab03_scalable_gnn/lab.ipynb)
 4. [Knowledge distillation](lab04_knowledge_distillation/lab.ipynb)
+4. [Deep graph generation](lab05_deep_generaion/lab.ipynb)
 
 All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line
 ```
