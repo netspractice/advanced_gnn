@@ -16,4 +16,4 @@ All assignments are presented as Jupyter notebooks, that can be done by writing 
 All notebooks contain test cells with assert statements that help you understand whether your code is correct.
 
 Assignments:
-1. TBA
+1. [Graph contrastive learning](assignment01_contrastive_learning/assignment.ipynb)
