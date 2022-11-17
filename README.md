@@ -8,7 +8,7 @@ Labs:
 3. [Scalable GNN](lab03_scalable_gnn/lab.ipynb)
 4. [Knowledge distillation](lab04_knowledge_distillation/lab.ipynb)
 5. [Deep graph generation](lab05_deep_generaion/lab.ipynb)
-6. [explainable_gnn](lab06_explainable_gnn/lab.ipynb)
+6. [Explainable GNN](lab06_explainable_gnn/lab.ipynb)
 
 All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line
 ```
