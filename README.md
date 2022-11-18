@@ -19,3 +19,4 @@ All notebooks contain test cells with assert statements that help you understand
 Assignments:
 1. [Graph contrastive learning](assignment01_contrastive_learning/assignment.ipynb)
 2. [Recurrent graph generation](assignment02_recurrent_generation/assignment.ipynb)
+3. [Recommender systems](assignment03_recsys/assignment.ipynb)
