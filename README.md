@@ -10,7 +10,7 @@ Labs:
 5. [Deep graph generation](lab05_deep_generaion/lab.ipynb)
 6. [Explainable GNN](lab06_explainable_gnn/lab.ipynb)
 7. [Recommender systems based on GNN](lab07_recsys/lab.ipynb)
-
+8. [Temporal graph embeddings](lab08_temporal_gnn/lab.ipynb)
 All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line
 ```
 # YOUR CODE HERE
