@@ -12,6 +12,7 @@ Labs:
 7. [Recommender systems based on GNN](lab07_recsys/lab.ipynb)
 8. [Temporal graph embeddings](lab08_temporal_gnn/lab.ipynb)
 9. [Query embeddings for knowledge graphs](lab09_multihop/lab.ipynb)
+10. [Combinatorial optimization using GNN](lab10_combinatorial_opt/lab.ipynb)
 
 All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line
 ```
